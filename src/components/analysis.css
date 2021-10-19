@@ -1,0 +1,16 @@
+.analysis {
+    width: 200px;
+    margin: 20px;
+    padding-bottom: 100px;
+    border: 2px solid grey;
+    background-color: grey;
+    height: 220px;
+    width: 215px;
+    justify-content: space-between;
+    align-items: center;
+    text-indent: 20px;
+    display: flex;
+    flex-direction: column;
+    font-size: small;
+    float: left;
+}

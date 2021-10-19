@@ -1,0 +1,16 @@
+.sidebar{
+      margin: 20px;
+      padding-top: 100px;
+      padding-bottom: 100px;
+      border: 2px solid grey;
+      background-color: grey;
+      height: 500px;
+      width: 170px;
+      justify-content: space-between;
+      align-items: center;
+      text-indent: 20px;
+      display: flex;
+      flex-direction: column;
+      font-size: small;
+      float: left;
+}
